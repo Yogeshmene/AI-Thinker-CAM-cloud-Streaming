@@ -1,0 +1,12 @@
+name: cloud_auto_shutter
+version: 0.1.0
+board:
+  platform: espressif32
+  board: esp32cam
+  framework: arduino
+build:
+  build_flags: []
+  lib_deps: []
+  monitor_speed: 115200
+components: []
+connections: []

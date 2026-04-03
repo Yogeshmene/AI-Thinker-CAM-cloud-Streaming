@@ -1,0 +1,59 @@
+# Embedr specific
+.embedr_chat/
+.versions/
+
+# Dependencies
+node_modules/
+.npm/
+.yarn/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build outputs
+dist/
+build/
+out/
+target/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.log
+*.lock
+.tmp/
+.temp/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+.vs/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.class
+*.pyc
+*.pyo
+__pycache__/
+.cache/
+.coverage
+
+# Archive files
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
